@@ -80,6 +80,7 @@ catch (error) {
 }
 
 setName("");
+setNewOptions(options)
 };
   
 
